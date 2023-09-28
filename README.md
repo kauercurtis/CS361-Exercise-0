@@ -1,2 +1,4 @@
 # CS361-Exercise-0
-Exercise 0 for CS 361 Software Engineering 1
+Outputs the square roots of the integers 1 - 1000.
+
+# Name: Curtis Kauer
